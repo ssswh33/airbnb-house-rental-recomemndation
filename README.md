@@ -20,4 +20,5 @@ Build out a data product to help the real estate company understand which zip co
 Zip codes in the staten island are the most ideal ones to invest in, while Manhattan's are not due to the high cost. 
 
 ## Executive Report
-I wrote a thorough report to document the analysis process. Please find it in the file *Report*.
+I wrote a thorough report to document the analysis process. Please find it in the file *Report-Airbnb rental*.
+You are also welcomed to view the slides in the file *Presentation-Airbnb rental*.
