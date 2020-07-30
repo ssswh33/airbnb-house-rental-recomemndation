@@ -1,16 +1,23 @@
-# short-term-house-rental-recomemndation
+# Airbnb-house-rental-recomemndation
 
 ## Introduction
-This is a personal project I did to push myself to learn frequently-used Python packages, including numpy, pandas, matplotlib, and seaborn.
+This is a personal project I did to push myself to learn frequently-used Python packages: numpy, pandas, matplotlib, and seaborn.
+
+## Background
+A real estate company has a niche in purchasing properties to rent out short-term as part of their business model specifically within New York City.  
+The real estate company has already known that two-bedroom properties are the most profitable. 
+However, they do not know which zip codes are the best to invest in. 
 
 ## Project Objective
+Built out a data product to help the real estate company understand which zip codes would generate the most profit on short-term house rentals within NYC on the Airbnb platform.
+  
 
 ## Datasets
-
-## Actions
-
-## Challenges
+*Cost dataset* Zillow provides us an estimate of value for two-bedroom properties
+*Revenue dataset* AirBnB is the medium through which the investor plans to lease out their investment property. Fortunately for you, we are able to see how much properties in certain neighborhoods rent out for in New York City
 
 ## Conclusion
+Zip codes in he staten island are the most ideal ones to invest in, while Manhattan's is not due to the high cost. 
 
-## Report
+## Executive Report
+I wrote a thorough report to document the analysis process. Please find it in the file **Report**.
