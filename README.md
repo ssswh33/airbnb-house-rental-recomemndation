@@ -1,4 +1,4 @@
-# Airbnb-house-rental-recomemndation
+# Airbnb House Rental Recomemndation
 
 ## Introduction
 This is a personal project I did to push myself to learn frequently-used Python packages: numpy, pandas, matplotlib, and seaborn.
@@ -17,7 +17,7 @@ Build out a data product to help the real estate company understand which zip co
 **Revenue dataset** AirBnB is the medium through which the investor plans to lease out their investment property. Fortunately for you, we are able to see how much properties in certain neighborhoods rent out for in New York City
 
 ## Conclusion
-Zip codes in he staten island are the most ideal ones to invest in, while Manhattan's is not due to the high cost. 
+Zip codes in the staten island are the most ideal ones to invest in, while Manhattan's are not due to the high cost. 
 
 ## Executive Report
 I wrote a thorough report to document the analysis process. Please find it in the file *Report*.
