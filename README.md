@@ -10,7 +10,8 @@ However, they do not know which zip codes are the best to invest in.
 
 ## Project Objective
 1) Build out a data product to help the real estate company understand which zip codes would generate the most profit on short-term house rentals within NYC on the Airbnb platform.</br> 
-2) Presented conclusion with visualizations.
+2) Wrtie well-formatted and well-commented codes. </br>
+3) Present conclusion with visualizations.
   
 ## Datasets
 **Cost dataset:** Zillow provides us an estimate of value for two-bedroom properties</br>
