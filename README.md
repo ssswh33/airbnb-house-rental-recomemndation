@@ -14,7 +14,7 @@ Presented conclusion with visualizations.
   
 ## Datasets
 **Cost dataset:** Zillow provides us an estimate of value for two-bedroom properties
-**Revenue dataset:** AirBnB is the medium through which the investor plans to lease out their investment property. Fortunately for you, we are able to see how much properties in certain neighborhoods rent out for in New York City
+**Revenue dataset:** AirBnB is the medium through which the investor plans to lease out their investment property. Fortunately for you, we are able to see how much properties in certain neighborhoods rent out for in New York City.
 
 ## Conclusion
 Zip codes in the staten island are the most ideal ones to invest in, while Manhattan's are not due to the high cost. 
@@ -24,3 +24,8 @@ I wrote a thorough report to document the analysis process. Please find it in th
 You are also welcomed to view the slides in the file *Presentation-Airbnb rental*.
 
 ## Visualizations
+Some visual examples. Find more in the *Images* folder.
+
+![](Images/ROI%20barplot.png)
+![](Images/profit.png)
+![](Images/house%20price%20trend.png)
