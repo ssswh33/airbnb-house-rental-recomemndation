@@ -1,6 +1,6 @@
 # Airbnb House Rental Recomemndation
 I did this project to push myself to learn frequently-used Python packages: numpy, pandas, matplotlib, and seaborn. </br>
-In addition to coding technique, I learned data quality check essentials and debug tips.
+In addition to coding technique, I learned data quality check essentials and debug tips through this project.
 
 ## 1.Introduction
 ### 1.1Background
